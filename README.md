@@ -1,1 +1,3 @@
-This is a project carried out in react to consult various prices of cryptocurrencies
+# Cotizador de Criptomonedas 
+
+[![Criptos.png](https://i.postimg.cc/ydWdfPYS/Criptos.png)](https://postimg.cc/tZQpJF6X)
